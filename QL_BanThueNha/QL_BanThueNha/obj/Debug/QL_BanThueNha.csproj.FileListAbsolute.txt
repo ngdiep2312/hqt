@@ -1,0 +1,10 @@
+E:\Năm 3\Ki 1\HQT-CSDL\BT2\QL_BanThueNha\QL_BanThueNha\bin\Debug\QL_BanThueNha.exe.config
+E:\Năm 3\Ki 1\HQT-CSDL\BT2\QL_BanThueNha\QL_BanThueNha\bin\Debug\QL_BanThueNha.exe
+E:\Năm 3\Ki 1\HQT-CSDL\BT2\QL_BanThueNha\QL_BanThueNha\bin\Debug\QL_BanThueNha.pdb
+E:\Năm 3\Ki 1\HQT-CSDL\BT2\QL_BanThueNha\QL_BanThueNha\obj\Debug\QL_BanThueNha.csprojAssemblyReference.cache
+E:\Năm 3\Ki 1\HQT-CSDL\BT2\QL_BanThueNha\QL_BanThueNha\obj\Debug\QL_BanThueNha.Login.resources
+E:\Năm 3\Ki 1\HQT-CSDL\BT2\QL_BanThueNha\QL_BanThueNha\obj\Debug\QL_BanThueNha.Properties.Resources.resources
+E:\Năm 3\Ki 1\HQT-CSDL\BT2\QL_BanThueNha\QL_BanThueNha\obj\Debug\QL_BanThueNha.csproj.GenerateResource.cache
+E:\Năm 3\Ki 1\HQT-CSDL\BT2\QL_BanThueNha\QL_BanThueNha\obj\Debug\QL_BanThueNha.exe
+E:\Năm 3\Ki 1\HQT-CSDL\BT2\QL_BanThueNha\QL_BanThueNha\obj\Debug\QL_BanThueNha.pdb
+E:\Năm 3\Ki 1\HQT-CSDL\BT2\QL_BanThueNha\QL_BanThueNha\obj\Debug\QL_BanThueNha.fQL.resources
