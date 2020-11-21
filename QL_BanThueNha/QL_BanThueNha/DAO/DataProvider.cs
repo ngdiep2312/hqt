@@ -26,7 +26,7 @@ namespace QL_BanThueNha.DAO
 
         private DataProvider() { }
 
-        private string connectionSTR = "Data Source=.\\SQLEXPRESS01;Initial Catalog=QuanLiThueVaBanNha;Integrated Security=True";
+        private string connectionSTR = "Data Source=HAI18120350;Initial Catalog=QuanLiThueVaBanNha;User ID = sa;Password=123; Integrated Security=true";
 
         public DataTable ExecuteQuery(string query, object[] parameter = null)
         {

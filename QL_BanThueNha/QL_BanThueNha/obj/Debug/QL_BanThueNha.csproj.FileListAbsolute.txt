@@ -8,3 +8,16 @@ E:\Năm 3\Ki 1\HQT-CSDL\BT2\QL_BanThueNha\QL_BanThueNha\obj\Debug\QL_BanThueNha.
 E:\Năm 3\Ki 1\HQT-CSDL\BT2\QL_BanThueNha\QL_BanThueNha\obj\Debug\QL_BanThueNha.exe
 E:\Năm 3\Ki 1\HQT-CSDL\BT2\QL_BanThueNha\QL_BanThueNha\obj\Debug\QL_BanThueNha.pdb
 E:\Năm 3\Ki 1\HQT-CSDL\BT2\QL_BanThueNha\QL_BanThueNha\obj\Debug\QL_BanThueNha.fQL.resources
+C:\Users\admin\Documents\Môn học năm 3\DBMS\code\hqt\QL_BanThueNha\QL_BanThueNha\obj\Debug\QL_BanThueNha.exe
+C:\Users\admin\Documents\Môn học năm 3\DBMS\code\hqt\QL_BanThueNha\QL_BanThueNha\obj\Debug\QL_BanThueNha.pdb
+C:\Users\admin\Documents\Môn học năm 3\DBMS\code\hqt\QL_BanThueNha\QL_BanThueNha\bin\Debug\QL_BanThueNha.exe.config
+C:\Users\admin\Documents\Môn học năm 3\DBMS\code\hqt\QL_BanThueNha\QL_BanThueNha\bin\Debug\QL_BanThueNha.exe
+C:\Users\admin\Documents\Môn học năm 3\DBMS\code\hqt\QL_BanThueNha\QL_BanThueNha\bin\Debug\QL_BanThueNha.pdb
+C:\Users\admin\Documents\Môn học năm 3\DBMS\code\hqt\QL_BanThueNha\QL_BanThueNha\obj\Debug\QL_BanThueNha.csprojAssemblyReference.cache
+C:\Users\admin\Documents\Môn học năm 3\DBMS\code\hqt\QL_BanThueNha\QL_BanThueNha\obj\Debug\QL_BanThueNha.fQL.resources
+C:\Users\admin\Documents\Môn học năm 3\DBMS\code\hqt\QL_BanThueNha\QL_BanThueNha\obj\Debug\QL_BanThueNha.Login.resources
+C:\Users\admin\Documents\Môn học năm 3\DBMS\code\hqt\QL_BanThueNha\QL_BanThueNha\obj\Debug\QL_BanThueNha.Properties.Resources.resources
+C:\Users\admin\Documents\Môn học năm 3\DBMS\code\hqt\QL_BanThueNha\QL_BanThueNha\obj\Debug\QL_BanThueNha.csproj.GenerateResource.cache
+C:\Users\admin\Documents\Môn học năm 3\DBMS\code\hqt\QL_BanThueNha\QL_BanThueNha\obj\Debug\QL_BanThueNha.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\Môn học năm 3\DBMS\code\hqt\QL_BanThueNha\QL_BanThueNha\obj\Debug\QL_BanThueNha.Nhân_viên_thủ_tục_hành_chính.resources
+C:\Users\admin\Documents\Môn học năm 3\DBMS\code\hqt\QL_BanThueNha\QL_BanThueNha\obj\Debug\QL_BanThueNha.Quản_lí_nhân_sự.resources

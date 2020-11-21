@@ -16,7 +16,7 @@ namespace QL_BanThueNha
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Login());
+            Application.Run(new Quản_lí_nhân_sự());
         }
     }
 }
